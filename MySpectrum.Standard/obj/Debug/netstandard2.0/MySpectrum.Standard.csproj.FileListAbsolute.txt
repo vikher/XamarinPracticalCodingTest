@@ -1,0 +1,12 @@
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum.Standard\bin\Debug\netstandard2.0\MySpectrum.Standard.deps.json
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum.Standard\bin\Debug\netstandard2.0\MySpectrum.Standard.dll
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum.Standard\obj\Debug\netstandard2.0\MySpectrum.Standard.csprojAssemblyReference.cache
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum.Standard\obj\Debug\netstandard2.0\MySpectrum.Standard.csproj.CoreCompileInputs.cache
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum.Standard\obj\Debug\netstandard2.0\MySpectrum.Standard.AssemblyInfoInputs.cache
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum.Standard\obj\Debug\netstandard2.0\MySpectrum.Standard.AssemblyInfo.cs
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum.Standard\bin\Debug\netstandard2.0\MySpectrum.Standard.pdb
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum.Standard\bin\Debug\netstandard2.0\MySpectrum.dll
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum.Standard\bin\Debug\netstandard2.0\MySpectrum.pdb
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum.Standard\obj\Debug\netstandard2.0\MySpectrum.Standard.csproj.CopyComplete
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum.Standard\obj\Debug\netstandard2.0\MySpectrum.Standard.dll
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum.Standard\obj\Debug\netstandard2.0\MySpectrum.Standard.pdb

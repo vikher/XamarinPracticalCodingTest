@@ -1,0 +1,14 @@
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum\MySpectrum\bin\Release\netstandard2.0\MySpectrum.deps.json
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum\MySpectrum\bin\Release\netstandard2.0\MySpectrum.dll
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum\MySpectrum\bin\Release\netstandard2.0\MySpectrum.pdb
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum\MySpectrum\obj\Release\netstandard2.0\MySpectrum.csprojAssemblyReference.cache
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum\MySpectrum\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum\MySpectrum\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum\MySpectrum\obj\Release\netstandard2.0\View\UsersListPage.xaml.g.cs
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum\MySpectrum\obj\Release\netstandard2.0\View\UsersPage.xaml.g.cs
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum\MySpectrum\obj\Release\netstandard2.0\MySpectrum.csproj.CoreCompileInputs.cache
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum\MySpectrum\obj\Release\netstandard2.0\MySpectrum.AssemblyInfoInputs.cache
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum\MySpectrum\obj\Release\netstandard2.0\MySpectrum.AssemblyInfo.cs
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum\MySpectrum\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum\MySpectrum\obj\Release\netstandard2.0\MySpectrum.dll
+C:\Users\vhern\source\repos\MySpectrum\MySpectrum\MySpectrum\obj\Release\netstandard2.0\MySpectrum.pdb

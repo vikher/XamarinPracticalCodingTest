@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MySpectrum.View.UsersPage"
+             Title="Add a new user">
+    <ContentPage.Content>
+        <StackLayout Spacing="10"
+                 Padding="20">
+            <Label TextColor="DodgerBlue" FontSize = "20" Text="User Name" />
+
+            <Entry Text="{Binding UserName}" />
+
+            <Label TextColor="DodgerBlue" FontSize = "20" Text="Password" />
+
+            <Entry Text="{Binding UserPassword}" />
+
+            <Button Text="Add User"
+                TextColor="White"
+                BackgroundColor="DodgerBlue"
+                FontSize="22"
+                Command="{Binding AddCommand}" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

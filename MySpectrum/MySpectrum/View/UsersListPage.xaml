@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MySpectrum.View.UsersListPage"
+             Title="List of users">
+    <ContentPage.Content>
+        <StackLayout Spacing="10"
+                 Padding="20">
+            <ListView
+            ItemsSource="{Binding Users}">
+                <ListView.Header>
+                    <Grid >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+                        <Label Text="Id" FontAttributes="Bold" Grid.Column="0" Grid.Row="0" />
+                        <Label Text="Name" FontAttributes="Bold" Grid.Column="1" Grid.Row="0"/>
+                        <Label Text="Password" FontAttributes="Bold" Grid.Column="2" Grid.Row="0"/>
+                    </Grid>
+                </ListView.Header>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Label Text="{Binding Id}" FontAttributes="Bold" />
+                                <Label Grid.Column="1" Text="{Binding Name}" />
+                                <Label Grid.Column="2" Text="{Binding Password}"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                    
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
